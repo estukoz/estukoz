@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @estukoz
 - 👀 I’m interested in developing indie games
-- 🌱 I’m currently learning c# and python
+- 🌱 I’m currently learning c#, java and python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
